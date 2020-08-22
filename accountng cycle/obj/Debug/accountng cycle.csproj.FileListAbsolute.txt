@@ -1,0 +1,11 @@
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\bin\Debug\accountng cycle.exe.config
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\bin\Debug\accountng cycle.exe
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\bin\Debug\accountng cycle.pdb
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng cycle.csprojResolveAssemblyReference.cache
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng_cycle.Form1.resources
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng_cycle.Properties.Resources.resources
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng cycle.csproj.GenerateResource.Cache
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng cycle.exe
+c:\users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng cycle.pdb
+C:\Users\aryanz\Documents\Visual Studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng_cycle.taccount.resources
+C:\Users\aryanz\documents\visual studio 2013\Projects\accountng cycle\accountng cycle\obj\Debug\accountng_cycle.balnce.resources
